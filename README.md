@@ -1,4 +1,4 @@
-### Bombwhale (JedBeom)
+### JedBeom
 
 ### ✨ GitHub Stats
 
