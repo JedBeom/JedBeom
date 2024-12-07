@@ -8,7 +8,7 @@
 </a>
 <br/>
 
-### 개인 프로젝트
+### Personal Projects
 
 - [schoolmeal](https://github.com/JedBeom/schoolmeal): Go / 나이스 비공개 API를 이용하여 대한민국의 초중고 급식과 학사일정을 크롤링하는 Go 패키지.
 - [왕운봇](https://github.com/JedBeom/wbot): Go / OO중학교의 급식/학사일정/주변 미세먼지 농도 등을 확인할 수 있(었)던 카카오톡 챗봇. (2년 운영 후 종료)
